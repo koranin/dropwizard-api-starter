@@ -1,0 +1,20 @@
+# VS Code
+.vscode
+
+# Eclipse IDE
+.settings
+.classpath
+.project
+
+# Maven
+target/
+dependency-reduced-pom.xml
+
+# Intellij IDE
+*.iml
+.idea
+
+# OSX
+.DS_Store
+
+dist/
